@@ -3,7 +3,7 @@ body{
 }
 .background{
     position: absolute;
-    bottom: 0;
+    bottom: 50vh;
     background-image: url(./img/background.png);
     background-repeat: repeat-x;
     background-size: contain;
@@ -12,24 +12,27 @@ body{
     animation: slideright 600s infinite linear;
 }
 .dino{
-    width: 60px;
-    height: 60px;
+    width: 3.125vw;
+    height: 6vh;
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
     background-image: url(./img/dino.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
 .cactus{
     position: absolute;
-    width: 60px;
-    height: 60px;
-    bottom: 0px;
-        background-image: url(./img/cactus.png);
+    width: 3.125vw;
+    height: 6vh;
+    bottom: 0;
+    background-image: url(./img/cactus.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
-.game-over{
+.container{
+    
+}
+.container__game-over{
     text-align: center;
     font-size: 3rem;
     color: #666666;
