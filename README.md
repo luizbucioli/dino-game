@@ -8,7 +8,7 @@ Recriação do clássico **jogo do dinossauro do Google Chrome (T‑Rex Runner)*
 
 📌 O jogo pode ser executado localmente abrindo o arquivo `index.html` no navegador.
 
-> *(Opcional: se você publicar no GitHub Pages, coloque aqui o link para jogar online.)*
+> **GitHub Pages: **📌 (https://luizbucioli.github.io/dino-game/)
 
 ---
 
