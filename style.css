@@ -30,23 +30,21 @@ body{
     background-size: contain;
 }
 .container{
-    height: 200px;
     width: 100%;
     display: flex;
     position: absolute;
-    bottom: 50vh;
+    bottom: 60vh;
     justify-content: center;
     align-items: center;
 }
 .container__game-over{
     text-align: center;
-    font-size: 4rem;
-    background-color: #b8b8b8;
-    color: #4e4e4e;
-    padding: 30px;
+    font-size: 3rem;
+    background-color: #b8b8b836;
+    color: #4e4e4eab;
+    padding: 20px;
     text-transform: uppercase;
-    border-radius: 20px;
-    margin-top: 50px;
+    border-radius: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
