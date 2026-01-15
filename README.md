@@ -19,7 +19,7 @@ Você também pode executar o jogo localmente abrindo o arquivo `index.html` no 
 *  Obstáculos gerados dinamicamente
 *  Sistema de pulo controlado por teclado
 *  Interface simples e inspirada no jogo original
-* 📱 Compatível com navegadores modernos
+* Compatível com navegadores modernos
 
 ---
 
