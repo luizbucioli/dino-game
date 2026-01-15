@@ -18,8 +18,6 @@ Você também pode executar o jogo localmente abrindo o arquivo `index.html` no 
 * 🦖 Personagem dinossauro com movimento automático
 * 🌵 Obstáculos gerados dinamicamente
 * ⬆️ Sistema de pulo controlado por teclado
-* 💥 Detecção de colisão
-* 🏆 Sistema de pontuação baseado no tempo de sobrevivência
 * 🎨 Interface simples e inspirada no jogo original
 * 📱 Compatível com navegadores modernos
 
