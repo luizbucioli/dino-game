@@ -75,22 +75,7 @@ Este projeto foi criado com fins **educacionais**, visando praticar e consolidar
 * 📱 Suporte completo a dispositivos móveis
 * 🏅 Ranking de pontuação
 * 🔄 Botão de reinício do jogo
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem‑vindas! Sinta‑se à vontade para:
-
-* Abrir uma *issue* com sugestões
-* Enviar um *pull request* com melhorias
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Você é livre para estudar, modificar e distribuir o código.
-
+  
 ---
 
 ## 👨‍💻 Autor
