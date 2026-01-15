@@ -1,4 +1,4 @@
-# 🦖 Dino Game
+#  Dino Game
 
 Recriação do clássico **jogo do dinossauro do Google Chrome (T‑Rex Runner)**, desenvolvido com **HTML, CSS e JavaScript puro**. O projeto simula o jogo exibido quando o navegador está sem conexão com a internet, onde o jogador deve pular obstáculos e sobreviver o maior tempo possível.
 
@@ -6,8 +6,8 @@ Recriação do clássico **jogo do dinossauro do Google Chrome (T‑Rex Runner)*
 
 ## 🎮 Demonstração
 
-🎮 **Jogue online pelo GitHub Pages:**
-👉 [https://luizbucioli.github.io/dino-game/](https://luizbucioli.github.io/dino-game/)
+ **Jogue online pelo GitHub Pages:**
+ [https://luizbucioli.github.io/dino-game/](https://luizbucioli.github.io/dino-game/)
 
 Você também pode executar o jogo localmente abrindo o arquivo `index.html` no navegador.
 
@@ -15,10 +15,10 @@ Você também pode executar o jogo localmente abrindo o arquivo `index.html` no 
 
 ## 🚀 Funcionalidades
 
-* 🦖 Personagem dinossauro com movimento automático
-* 🌵 Obstáculos gerados dinamicamente
-* ⬆️ Sistema de pulo controlado por teclado
-* 🎨 Interface simples e inspirada no jogo original
+*  Personagem dinossauro com movimento automático
+*  Obstáculos gerados dinamicamente
+*  Sistema de pulo controlado por teclado
+*  Interface simples e inspirada no jogo original
 * 📱 Compatível com navegadores modernos
 
 ---
@@ -70,11 +70,11 @@ Este projeto foi criado com fins **educacionais**, visando praticar e consolidar
 
 ## 🔧 Possíveis Melhorias Futuras
 
-* 📈 Aumento progressivo da velocidade
-* 🔊 Sons de pulo e colisão
-* 📱 Suporte completo a dispositivos móveis
-* 🏅 Ranking de pontuação
-* 🔄 Botão de reinício do jogo
+* Aumento progressivo da velocidade
+* Sons de pulo e colisão
+* Suporte completo a dispositivos móveis
+* Ranking de pontuação
+* Botão de reinício do jogo
   
 ---
 
